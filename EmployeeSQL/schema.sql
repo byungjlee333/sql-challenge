@@ -1,4 +1,4 @@
-REATE TABLE departments 
+CREATE TABLE departments 
 (
     dept_no VARCHAR(30)   PRIMARY KEY NOT NULL,
     dept_name VARCHAR(30)   NOT NULL
